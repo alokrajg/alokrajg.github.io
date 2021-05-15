@@ -2,7 +2,6 @@
 published: true
 description: A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 categories: [data_science]
-image: images/ds_project.jpg
 title: Data Science Project Environment
 ---
 ![](/assets/images/ds-project.jpg?raw=true){: .center-image }
