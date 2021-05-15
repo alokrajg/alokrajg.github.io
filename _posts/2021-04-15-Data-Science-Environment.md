@@ -4,7 +4,7 @@ description: A logical, reasonably standardized, but flexible project structure 
 categories: [data_science]
 title: Data Science Project Environment
 ---
-![](/assets/images/ds-project.jpg?raw=true){: .center-image }
+![](/assets/images/ds_project.jpg?raw=true){: .center-image }
 # Step by step procedure to setup any data science project.
 
 ## Basic setup
