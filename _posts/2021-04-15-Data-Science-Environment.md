@@ -7,7 +7,6 @@ image: images/ds_project.jpg
 title: Data Science Project Environment
 ---
 # Step by step procedure to setup any data science project.
-![ds_project]({{site.baseurl}}/assets/images/ds_project.jpg " ")
 
 ## Basic setup
 1. Install cookiecutter
