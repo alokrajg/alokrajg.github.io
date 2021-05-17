@@ -11,7 +11,7 @@ tags:
   - music
   - books
   - tv-series
-gallery:
+feature_row:
   - url: /assets/images/music_icon.jpg
     image_path: /assets/images/music_icon.jpg
     title: "Music"
@@ -25,4 +25,4 @@ gallery:
     image_path: /assets/images/philosophy.jpg
     title: "Philosophy"
 ---  
-{% include gallery caption=" " %}
+{% include feature_row %}
