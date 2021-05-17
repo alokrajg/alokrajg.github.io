@@ -2,13 +2,26 @@
 layout: single
 permalink: /chill/
 author_profile: true
+title: "My personal favorites "
+categories:
+  - chill
+tags:
+  - chill
+  - movies
+  - music
+  - books
+  - tv-series
 gallery:
-  - url: https://flic.kr/p/8a6Ven
-    image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
-    alt: "Black and grays with a hint of green"
+  - url: /assets/images/music_icon.jpg
+    image_path: /assets/images/music_icon.jpg
+    title: "Music"
+  - url: /assets/images/movie_icon1.jpg
+    image_path: /assets/images/movie_icon1.jpg
+    title: "Movies/TV-Series"
+  - url: /assets/images/book_icon.jpg
+    image_path: /assets/images/book_icon.jpg
+    title: "Books"
+  - url: /assets/images/philosophy.jpg
+    image_path: /assets/images/philosophy.jpg
+    title: "Philosophy"
 ---  
-
-{% include gallery id="gallery" caption=" " %}
-
-Chill
-fdh
