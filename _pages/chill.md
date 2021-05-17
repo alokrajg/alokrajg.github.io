@@ -2,13 +2,6 @@
 layout: single
 permalink: /chill/
 author_profile: true
-title: "Post: Gallery"
-categories:
-  - Post Formats
-tags:
-  - gallery
-  - Post Formats
-  - tiled
 gallery:
   - url: /assets/images/alok.jpg
     image_path: /assets/images/alok.jpg
