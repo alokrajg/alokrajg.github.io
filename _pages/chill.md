@@ -11,18 +11,18 @@ tags:
   - music
   - books
   - tv-series
-feature_row:
-  - url: /assets/images/music_icon.jpg
+gallery:
+  - url: https://mmistakes.github.io/minimal-mistakes/docs/helpers/
     image_path: /assets/images/music_icon.jpg
-    alt: "Music"
-  - url: /assets/images/movie_icon1.jpg
+    title: "Music"
+  - url: https://mmistakes.github.io/minimal-mistakes/docs/helpers/
     image_path: /assets/images/movie_icon1.jpg
-    alt: "Movies"
-  - url: /assets/images/book_icon.jpg
+    title: "Movies"
+  - url: https://mmistakes.github.io/minimal-mistakes/docs/helpers/
     image_path: /assets/images/book_icon.jpg
-    alt: "Books"
-  - url: /assets/images/philosophy.jpg
+    title: "Books"
+  - url: https://mmistakes.github.io/minimal-mistakes/docs/helpers/
     image_path: /assets/images/philosophy.jpg
-    alt: "Philosophy"
+    title: "Philosophy"
 ---  
-{% include feature_row %}
+{% include gallery %}
