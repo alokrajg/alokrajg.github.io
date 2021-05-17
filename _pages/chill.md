@@ -14,15 +14,15 @@ tags:
 gallery:
   - url: /assets/images/music_icon.jpg
     image_path: /assets/images/music_icon.jpg
-    title: "Music"
+    alt: "Music"
   - url: /assets/images/movie_icon1.jpg
     image_path: /assets/images/movie_icon1.jpg
-    title: "Movies"
+    alt: "Movies"
   - url: /assets/images/book_icon.jpg
     image_path: /assets/images/book_icon.jpg
-    title: "Books"
+    alt: "Books"
   - url: /assets/images/philosophy.jpg
     image_path: /assets/images/philosophy.jpg
-    title: "Philosophy"
+    alt: "Philosophy"
 ---  
 {% include gallery %}
