@@ -11,13 +11,13 @@ tags:
   - music
   - books
   - tv-series
-feature_row:
+gallery:
   - url: /assets/images/music_icon.jpg
     image_path: /assets/images/music_icon.jpg
     title: "Music"
   - url: /assets/images/movie_icon1.jpg
     image_path: /assets/images/movie_icon1.jpg
-    title: "Movies/TV-Series"
+    title: "Movies"
   - url: /assets/images/book_icon.jpg
     image_path: /assets/images/book_icon.jpg
     title: "Books"
@@ -25,4 +25,4 @@ feature_row:
     image_path: /assets/images/philosophy.jpg
     title: "Philosophy"
 ---  
-{% include feature_row %}
+{% include gallery %}
