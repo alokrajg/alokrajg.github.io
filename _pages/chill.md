@@ -25,3 +25,4 @@ gallery:
     image_path: /assets/images/philosophy.jpg
     title: "Philosophy"
 ---  
+{% include gallery caption=" " %}
