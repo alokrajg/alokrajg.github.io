@@ -11,11 +11,12 @@ tags:
   - music
   - books
   - tv-series
-gallery:
+feature_row:
   - url: https://mmistakes.github.io/minimal-mistakes/docs/helpers/
     image_path: /assets/images/music_icon.jpg
     alt: "Music"
     title: "Music"
+    btn_class: {: .btn .btn--light-outline}
   - url: https://mmistakes.github.io/minimal-mistakes/docs/helpers/
     image_path: /assets/images/movie_icon1.jpg
     alt: "Movies"
@@ -29,4 +30,4 @@ gallery:
     alt: "Philosophy"
     title: "Philosophy"
 ---  
-{% include gallery %}
+{% include feature_row %}
