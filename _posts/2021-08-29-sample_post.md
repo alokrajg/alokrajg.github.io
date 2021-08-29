@@ -1,10 +1,9 @@
 ---
 published: true
-description: A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 categories: [data_science]
 tags:
   - data_science
-title: Data Science Project Environment
+title: Jupyter notebook post
 ---
 
 ```python
