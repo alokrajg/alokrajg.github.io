@@ -3,7 +3,7 @@ layout: single
 permalink: /chill/
 author_profile: true
 title: "My personal favorites "
-feature_row:
+gallery:
   - url: https://mmistakes.github.io/minimal-mistakes/docs/helpers/
     image_path: /assets/images/music_icon.jpg
     alt: "Music"
@@ -20,7 +20,9 @@ feature_row:
     image_path: /assets/images/philosophy.jpg
     alt: "Philosophy"
     title: "Philosophy"
-{% include feature_row %}
+    
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 ---
-{% include feature_row %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 Chill
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
