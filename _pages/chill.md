@@ -30,4 +30,5 @@ feature_row:
     alt: "Philosophy"
     title: "Philosophy"
 ---
-{% include feature_row %}
+
+Chill
