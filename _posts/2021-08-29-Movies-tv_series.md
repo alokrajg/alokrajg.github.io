@@ -1,10 +1,7 @@
 ---
 published: true
-description: Movies
 categories: [movies]
-tags:
-  - movies
 title: Movies and TV series Gallery
 ---
-![](/assets/images/movie_icon.jpg?raw=true){: .center-image }
+![](/assets/images/movie_icon1.jpg?raw=true){: .center-image }
 # Movies
