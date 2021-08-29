@@ -29,5 +29,5 @@ feature_row:
     image_path: /assets/images/philosophy.jpg
     alt: "Philosophy"
     title: "Philosophy"
----  
+---
 {% include feature_row %}
