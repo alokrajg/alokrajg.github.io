@@ -4,16 +4,16 @@ permalink: /chill/
 author_profile: true
 title: "Personal favorites "
 gallery:
-  - url: /assets/images/music_icon.jpg
+  - url: https://alokrajg.github.io/Music/
     image_path: /assets/images/music_icon.jpg
     title: "Music"
-  - url: /assets/images/movie_icon.jpg
+  - url: https://alokrajg.github.io/Movies-tv_series/
     image_path: /assets/images/movie_icon.jpg
     title: "Movies/TV-Series"
-  - url: /assets/images/book_icon.jpg
+  - url: https://alokrajg.github.io/Books/
     image_path: /assets/images/book_icon.jpg
     title: "Books"
-  - url: /assets/images/philosophy.jpg
+  - url: https://alokrajg.github.io/Philosophy/
     image_path: /assets/images/philosophy.jpg
     title: "Philosophy"
 ---
