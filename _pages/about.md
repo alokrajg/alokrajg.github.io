@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Alok's Blog"
-permalink: /about/
+permalink: /
 ---
 
 # Welcome
