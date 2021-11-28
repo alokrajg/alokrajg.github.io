@@ -1,10 +1,9 @@
 ---
 layout: single
 permalink: /
+title: 'About me'
 author_profile: true
 ---
-
-# About me
 
 I'm currently working as a **Data Science Engineer** at AVL, since March 2019.
 
