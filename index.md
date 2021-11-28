@@ -1,10 +1,9 @@
 ---
 layout: single
 permalink: /
-title: 'About me'
+title: 'About Me'
 author_profile: true
 ---
-
 I'm currently working as a **Data Science Engineer** at AVL, since March 2019.
 
 Trying to solve complex real-world problems by utilizing quantitative analytics and interpretable machine learning models.
