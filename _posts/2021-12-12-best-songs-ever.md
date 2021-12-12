@@ -5,10 +5,8 @@ tags:
   - music
   - songs
   - top10songs
-title: Best Songs Ever
+title: Top 10 songs of all time
 ---
-
-![](/assets/images/best-songs-ever.png){: .center-image }
 
 
 As a music fan, selecting simply the top 10 songs of all time is quite difficult. But I'll try my best to provide you with some of my own favorites.
