@@ -82,24 +82,3 @@ If you don't want to waste time reading my thoughts on these songs, you can go s
     
     *Hotel California* drew heroic sales figures and critical plaudits in equal measure. The song was awarded the [Grammy Award for Record of the Year](https://en.wikipedia.org/wiki/Grammy_Award_for_Record_of_the_Year) in [1978](https://en.wikipedia.org/wiki/20th_Annual_Grammy_Awards).
     
-
-
-    
-
-    
-
-
-    
-
-
-    
-
-
-
-
-
-
-
-
-    
-
