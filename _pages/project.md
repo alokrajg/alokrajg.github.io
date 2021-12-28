@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /projects/
+permalink: /project/
 author_profile: true
 ---
 
