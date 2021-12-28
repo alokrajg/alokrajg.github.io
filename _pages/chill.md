@@ -16,6 +16,9 @@ gallery:
   - url: https://alokrajg.github.io/Philosophy/
     image_path: /assets/images/philosophy.jpg
     title: "Philosophy"
+  - url: https://alokrajg.github.io/tv-series/
+    image_path: /assets/images/tv-series_icon.jpg
+    title: "TV-Series"
 ---
 
 {% include gallery %}
