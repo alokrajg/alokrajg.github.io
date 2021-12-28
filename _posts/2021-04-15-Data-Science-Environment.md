@@ -5,6 +5,8 @@ categories: [data_science]
 tags:
   - data_science
 title: Data Science Project Environment
+header:
+  teaser: "/../assets/images/ds_project.jpg"
 ---
 ![](/assets/images/ds_project.jpg?raw=true){: .center-image }
 # Step by step procedure to setup any data science project.
