@@ -5,7 +5,7 @@ author_profile: true
 title: "Personal favorites "
 gallery:
   - url: https://www.alokrajgupta.com/music/
-    image_path: /assets/images/music_icon.jpg
+    image_path: /assets/images/music_icon.png
     title: "Music"
   - url: https://www.alokrajgupta.com/movies/
     image_path: /assets/images/movie_icon.jpg
