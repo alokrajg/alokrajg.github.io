@@ -19,6 +19,9 @@ gallery:
   - url: https://alokrajg.github.io/tv-series/
     image_path: /assets/images/tv-series_icon.jpg
     title: "TV-Series"
+  - url: https://alokrajg.github.io/yet-to-decide/
+    image_path: /assets/images/decide.jpg
+    title: "Yet to decide"
 ---
 
 {% include gallery %}
