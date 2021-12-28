@@ -1,11 +1,14 @@
 ---
+title: Top 10 songs of all time
+date: 2021-12-12
 published: true
 categories: [music]
 tags:
   - music
   - songs
   - top10songs
-title: Top 10 songs of all time
+header:
+  teaser: "/../assets/images/music_icon.png"
 ---
 
 
