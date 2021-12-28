@@ -8,7 +8,7 @@ tags:
   - songs
   - top10songs
 header:
-  teaser: "/../assets/images/music_icon.png"
+  teaser: '/../assets/images/best_songs_ever/teaser.png'
 ---
 
 
