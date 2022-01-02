@@ -16,14 +16,11 @@ For each of these tasks, I have curated a list of top 7 time series python libra
 **1. Prophet**
 
 Facebook (Meta)’s `Prophet` is a generic time series forecasting at scale.
-
 It follows the scikit-learn API, *fit* and *predict* methods so it should be easy to pick up for
-anyone with experience with sklearn. At its core, the Prophet procedure is an additive regression model.
+anyone having experience with sklearn. At its core, the Prophet procedure is an additive regression model.
 
 These are situations where Prophet is better than regular forecasting methods.
-
 Mostly in demand forecasting business where:
-
 - hourly, daily, or weekly observations with at least a few months (preferably a year) of history.
 - important holidays that occur at irregular intervals that are known in advance.
 
@@ -34,9 +31,7 @@ Working example of Prophet.
 **2. tsai**
 
 There is a cool library that provide easy to use state of the art Deep Learning models for time series analysis.
-
 `tsai` is an open-source deep learning package built on top of Pytorch & Fastai
-
 - Fine-tuned model architectures.
 - Easy to change/swap any models without modifying much in the code base.
 - Provide support for large dataset to fit in memory.
@@ -44,7 +39,6 @@ There is a cool library that provide easy to use state of the art Deep Learning 
 - Supports time-series classification, regression and forecasting...
 
 Here's a list with some of the state-of-the-art models available in `tsai`:
-
 1. [LSTM](https://github.com/timeseriesAI/tsai/blob/main/tsai/models/RNN.py) (Hochreiter, 1997) ([paper](https://ieeexplore.ieee.org/abstract/document/6795963/))
 2. [mWDN](https://github.com/timeseriesAI/tsai/blob/main/tsai/models/mWDN.py) - Multilevel wavelet decomposition network (Wang, 2018) ([paper](https://dl.acm.org/doi/abs/10.1145/3219819.3220060))
 3. [MLSTM-FCN](https://github.com/timeseriesAI/tsai/blob/main/tsai/models/RNN_FCN.py) - Multivariate LSTM-FCN (Karim, 2019) ([paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608019301200))
@@ -59,7 +53,6 @@ Working example of tsai.
 **3. tsfresh**
 
 It calculates a significant number of time series characteristics, or features, automatically. 
-
 These features can then be used for regression or classification tasks in the future.
 
 To develop a model, it first calculates a huge number of features and then narrows it down by selecting just relevant features. The feature extraction and the feature selection offer the possibility of parallelization.
@@ -71,7 +64,6 @@ Working example of tsfresh.
 **4. stumpy**
 
 STUMPY is a powerful and scalable library that efficiently computes something called the [matrix profile](https://stumpy.readthedocs.io/en/latest/Tutorial_The_Matrix_Profile.html), which can be used for a variety of time series data mining tasks such as:
-
 - pattern/motif (common subsequence in time-series) discovery
 - anomaly detection
 - shapelet discovery
@@ -85,9 +77,7 @@ Working example of stumpy.
 **5. statsmodels**
 
 statsmodels is a Python package that provides a complement to scipy for statistical computations including descriptive statistics and estimation and inference for statistical models.
-
 **`statsmodels.tsa`** contains model classes and functions that are useful for time series analysis. 
-
 Basic models include univariate autoregressive models (AR), vector autoregressive models (VAR) and univariate autoregressive moving average models (ARMA).
 
 `statsmodels.tsa.stattools`  contains many useful functions for Descriptive Statistics and Tests such as acf, pacf, granger-causality, adf unit root test, kpss test, bds test, ljung-box test and others.
@@ -99,7 +89,6 @@ Working example of statsmodels.
 **6. Boosting models**
 
 Boosting models include XGBoost, LightGBM and CatBoost.
-
 These are the most popular tree ensemble models, with many Kaggle competitions won using them. For tabular data, they even outperform Deep Learning models. We can also transform our time-series data into tabular data (link), and then can use these models.
 
 >Key Takeaway : Nowadays these models are giving state of the art results with model interpretability in hand (easy integration with SHAP and LIME), fast to train and even provide GPU support.
@@ -111,7 +100,6 @@ Working example of Boosting model for time-series.
 Recently Facebook (Meta)’s open-sourced another time series library which is a *One stop shop for time series analysis in Python.*
 
 It provide these functionalities:
-
 - forecasting (10+ individual forecasting models, ensembling)
 - anomaly/change point detections
 - TSFeatures for time- series feature extraction
