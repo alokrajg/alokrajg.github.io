@@ -9,10 +9,11 @@ header:
 
 Time Series analysis involves a lot of tasks such as forecasting, classification, anomaly detection, time-series feature extraction, and sequence matching... etc.
 
-For each of these tasks, I have curated a list of the best time series python libraries.
+For each of these tasks, I have curated a list of top 7 time series python libraries:
+
 ![plotly time-series](/assets/images/python_lib_ts/teaser.PNG?raw=true){: .center-image }
 
-**Prophet**
+**1. Prophet**
 
 Facebook (Meta)’s `Prophet` is a generic time series forecasting at scale.
 
@@ -30,7 +31,7 @@ Mostly in demand forecasting business where:
 
 Working example of Prophet.
 
-**tsai**
+**2. tsai**
 
 There is a cool library that provide easy to use state of the art Deep Learning models for time series analysis.
 
@@ -55,7 +56,7 @@ These models/architectures are still too new to be used in a real-world situatio
 
 Working example of tsai.
 
-**tsfresh**
+**3. tsfresh**
 
 It calculates a significant number of time series characteristics, or features, automatically. 
 
@@ -67,7 +68,7 @@ To develop a model, it first calculates a huge number of features and then narro
 
 Working example of tsfresh.
 
-**stumpy**
+**4. stumpy**
 
 STUMPY is a powerful and scalable library that efficiently computes something called the [matrix profile](https://stumpy.readthedocs.io/en/latest/Tutorial_The_Matrix_Profile.html), which can be used for a variety of time series data mining tasks such as:
 
@@ -81,11 +82,11 @@ At its core, the STUMPY library efficiently computes something called a matrix p
 
 Working example of stumpy.
 
-**statsmodels**
+**5. statsmodels**
 
 statsmodels is a Python package that provides a complement to scipy for statistical computations including descriptive statistics and estimation and inference for statistical models.
 
-**`[statsmodels.tsa](https://www.statsmodels.org/stable/tsa.html#module-statsmodels.tsa)`** contains model classes and functions that are useful for time series analysis. 
+**`statsmodels.tsa`** contains model classes and functions that are useful for time series analysis. 
 
 Basic models include univariate autoregressive models (AR), vector autoregressive models (VAR) and univariate autoregressive moving average models (ARMA).
 
@@ -95,7 +96,7 @@ Basic models include univariate autoregressive models (AR), vector autoregressiv
 
 Working example of statsmodels.
 
-**Boosting models**
+**6. Boosting models**
 
 Boosting models include XGBoost, LightGBM and CatBoost.
 
@@ -105,9 +106,9 @@ These are the most popular tree ensemble models, with many Kaggle competitions w
 
 Working example of Boosting model for time-series.
 
-**Kats**
+**7. Kats**
 
-Recently Facebook (Meta)’s open-sourced another time series library which is a ***One stop shop for time series analysis in Python.***
+Recently Facebook (Meta)’s open-sourced another time series library which is a *One stop shop for time series analysis in Python.*
 
 It provide these functionalities:
 
